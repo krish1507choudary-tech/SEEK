@@ -3749,7 +3749,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &94616532
 RectTransform:
   m_ObjectHideFlags: 0
@@ -11167,7 +11167,7 @@ Transform:
   m_GameObject: {fileID: 276153924}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 0.12414213, z: -0, w: 0.99226445}
-  m_LocalPosition: {x: -8.06009, y: 0.60049117, z: 13.252873}
+  m_LocalPosition: {x: -7.791, y: 0.60049117, z: 13.17}
   m_LocalScale: {x: 0.29064846, y: 0.08425808, z: 0.3671373}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -41248,7 +41248,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &906867780
 RectTransform:
   m_ObjectHideFlags: 0
@@ -56806,15 +56806,15 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1287398465}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: 0.12414213, z: -0, w: 0.99226445}
-  m_LocalPosition: {x: -1.39, y: 0, z: 4.31}
+  m_LocalRotation: {x: -0.012431579, y: 0.12413238, z: -0.0015553104, w: 0.9921866}
+  m_LocalPosition: {x: -1.39, y: 0, z: 3.879}
   m_LocalScale: {x: 0.29064846, y: 0.08425808, z: 0.3671373}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 757836424}
   - {fileID: 362712351}
   m_Father: {fileID: 892678677}
-  m_LocalEulerAnglesHint: {x: 0, y: 14.262, z: 0}
+  m_LocalEulerAnglesHint: {x: -1.391, y: 14.267, z: -0.354}
 --- !u!114 &1287398467
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -73260,11 +73260,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8626808761198878570, guid: 8c822ea49c895de44aace1219a23a3e8, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.02
+      value: 0.76
       objectReference: {fileID: 0}
     - target: {fileID: 8626808761198878570, guid: 8c822ea49c895de44aace1219a23a3e8, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 116.4
+      value: 29.2
       objectReference: {fileID: 0}
     - target: {fileID: 8626808761198878570, guid: 8c822ea49c895de44aace1219a23a3e8, type: 3}
       propertyPath: m_LocalRotation.w
@@ -74254,7 +74254,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &1708533497
 MonoBehaviour:
   m_ObjectHideFlags: 0
